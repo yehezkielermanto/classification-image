@@ -1,2 +1,3 @@
 # classification-image
-This repository is created by python language to classify image using machine learning algorithm
+This repository is created using python language to classify image with machine learning algorithm
+>> Problem in dicoding acedemy (learn machine learning for beginner)
